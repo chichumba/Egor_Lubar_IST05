@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# PyCharm/IDE
+.idea/
+*.iml
