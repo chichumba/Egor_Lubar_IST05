@@ -1,1 +1,3 @@
-print("паша гей")
+print("Hello World")
+print("Hello World")
+print("Hello World")
